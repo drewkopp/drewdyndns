@@ -4,7 +4,7 @@
 Andrew Kopp
 
 <h3>Description:</h3> 
-(NotSo) Simple Cloudflare DNS record updater for people on dynamic IP addresses.
+(Not So) Simple Cloudflare DNS record updater for people on dynamic IP addresses.
 
 <h3>Motivation:</h3>
 I rely on cloudflare for many things for my lab - and i do not feel comfortable exposing my Cloudflare API keys to third-party apps. Plus, I wanted a friday night challenge.
